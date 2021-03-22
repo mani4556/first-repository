@@ -1,1 +1,3 @@
-# first-repository
+# maven-project
+
+Simple Maven Project
